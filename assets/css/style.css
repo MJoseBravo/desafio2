@@ -1,0 +1,49 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+header {
+    height: 7em;
+    padding: 2em 3em;
+    font-size: 1em;
+    background-image: url(/assets/imgs/pets.png);
+    background-size: 90%;
+    background-position: right;
+    background-repeat: no-repeat;
+    margin: 2%;  
+}
+
+section {
+    margin: 3%;
+    border-top: 2px solid #808000;
+}
+
+div {
+    margin-top: 5%;
+}
+
+.imagen {
+    width: 275px;
+}
+
+.box {
+    display: flex;
+}
+
+
+.descripcion {
+    display: block;
+    align-self:center;
+    padding-left: 3em;
+}
+
+footer {
+    margin-top: 0;
+    text-align: center;
+    background-color: #808000;
+    padding: 2%;  
+}
